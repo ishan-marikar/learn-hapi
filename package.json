@@ -25,10 +25,10 @@
   "dependencies": {
     "bell": "^5.0.0",
     "boom": "^2.8.0",
-    "handlebars": "^3.0.3",
+    "handlebars": "^4.0.12",
     "hapi": "^8.8.0",
     "joi": "^6.6.1",
-    "socket.io": "^1.3.6"
+    "socket.io": "^4.8.0"
   },
   "devDependencies": {
     "code": "^1.4.1",
